@@ -20,7 +20,7 @@ Due to Telegram API Terms of Service, the use of this script is for PoC only.
 ## How to
 ### Step 0 
 
-`git clone https://github.com/san0m/breaking-telegram.git`
+`git clone https://github.com/san0m/breaking-telegram-.git`
 
 ### Step 1
 
@@ -50,3 +50,5 @@ Check your saved messages.
 
 Use secret chats. 
 They're not bulletproof, but they're definitely safer.
+:)
+
